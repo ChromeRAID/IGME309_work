@@ -1,3 +1,3 @@
-D:/Profiles/kns1112/source/repos/IGME309-2195/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
-D:/Profiles/kns1112/source/repos/IGME309-2195/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/Profiles/kns1112/source/repos/IGME309-2195/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kns_8/source/repos/IGME309_work/shanK_E08/include/glm/out/build/x64-Debug/CMakeFiles/glm_dummy.dir
+C:/Users/kns_8/source/repos/IGME309_work/shanK_E08/include/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/kns_8/source/repos/IGME309_work/shanK_E08/include/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
